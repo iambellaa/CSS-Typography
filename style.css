@@ -75,6 +75,8 @@ body {
     line-height: 48px;
     margin-top: 60px;
     padding: 10px 20px;
+    min-width: 200px;
+    max-width: 800px;
   }
   
   .pull-quote {
@@ -114,4 +116,3 @@ body {
     border: 1px solid red;
     color: red;
   }
-  

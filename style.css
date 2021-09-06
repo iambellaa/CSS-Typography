@@ -118,3 +118,8 @@ body {
     border: 1px solid red;
     color: red;
   }
+
+  * {
+    box-sizing: border-box;
+  }
+  
